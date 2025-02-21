@@ -30,7 +30,8 @@ I am passionate about **turning raw data into actionable insights** to improve b
 
 ### **Project & Product Management:**  
 ✔️ **Tools:** Smartsheet, Jira, SharePoint, Confluence, MS Visio, Asana, A/B Testing  
-✔️ **Methodologies:** Agile, Scrum, Waterfall, Product Development  
+✔️ **Methodologies:** Agile, Scrum, Waterfall, Product Development 
+
 ---
 
 ## 📊 Technical Projects  
