@@ -1,8 +1,6 @@
 ## ✨ Hey there! 👋😃 Welcome to my GitHub! 🚀💻, I'm Archana Deshpande
 ### Data Analyst
 
-<!--
-
 ## 👩‍💻 About Me  
 I am a **Data Analyst** with hands-on experience in **data analysis, business analytics, visualization, machine learning, and automation**.  
 With a **Master of Science in Business Analytics from Syracuse University**, I have worked on projects involving:  
@@ -70,4 +68,4 @@ I am passionate about **turning raw data into actionable insights** to improve b
 🔍 Explore my GitHub repositories to see my projects and insights! 🚀
 
 📢 Feel free to **connect with me** for collaborations or discussions! 
--->
+
